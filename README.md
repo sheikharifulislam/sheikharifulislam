@@ -1,7 +1,7 @@
 ### Hi there 👋, I A'm Sheikh Ariful Islam
 ####  A passionate frontend developer from Bangladesh
-![ A passionate frontend developer from Bangladesh]
-<img style="width:100%,height:400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU" />
+
+<img style="width:100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU" />
 
 Hello Everyone. I am Sheikh Ariful Islam. I am a MERN Stack Web Developer. I have been involved in web development for over a year. I always like to learn new and difficult things about programming. I spent this long one year learning new things about programming and project creation
 
