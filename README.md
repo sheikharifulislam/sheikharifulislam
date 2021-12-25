@@ -9,9 +9,9 @@ Hello Everyone. I am Sheikh Ariful Islam. I am a MERN Stack Web Developer. I hav
 - 🔭 I’m currently working on GFresh Grocery Shop Website 
 - 🌱 I’m currently learning TypeScript,Redux,Graphql 
 - 📫 How to reach me:
-<h6>Email : <a href="mailto:webprogramming.ariful@gmail.com">webprogramming.ariful@gmai.com<a/>
-</h6><h6>Mobile : <a href="tel:+8801729527451">+8801729527451<a/>
-</h6><h6>Whatapp: <a href="whatapp:+8801729527451">+8801729527451</a></h6> 
+<h6>Email : <a href="mailto:webprogramming.ariful@gmail.com">webprogramming.ariful@gmai.com<a/></h6>
+<h6>Mobile : <a href="tel:+8801729527451">+8801729527451</a></h6>
+<h6>Whatapp : <a href="whatapp:+8801729527451">+8801729527451</a></h6> 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sheikharifulislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sheikh-ariful-islam1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sk.rayhan.9465177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15489606/sheikh-ariful)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sheikh-ariful-islam.netlify.app/)  
