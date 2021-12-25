@@ -1,4 +1,11 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+---
+title: "Font Awesome in R Markdown"
+output: html_document
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 ### Hi there 👋, I A'm Sheikh Ariful Islam
 ####  A passionate frontend developer from Bangladesh
 
@@ -16,7 +23,7 @@ Hello Everyone. I am Sheikh Ariful Islam. I am a MERN Stack Web Developer. I hav
 <h6>Whatapp : <a href="whatapp:+8801729527451">+8801729527451</a></h6> 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color:#fff">](https://github.com/sheikharifulislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color="#fff">](https://www.linkedin.com/in/www.linkedin.com/in/sheikh-ariful-islam1/)  [<i class="fab fa-facebook-square"></i>](https://www.facebook.com/https://www.facebook.com/sk.rayhan.9465177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' color="#fff">](https://stackoverflow.com/users/https://stackoverflow.com/users/15489606/sheikh-ariful)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' color="#fff">](https://sheikh-ariful-islam.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color:#fff">](https://github.com/sheikharifulislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color="#fff">](https://www.linkedin.com/in/www.linkedin.com/in/sheikh-ariful-islam1/)  [`r fa("r-project", fill = "steelblue")`](https://www.facebook.com/https://www.facebook.com/sk.rayhan.9465177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' color="#fff">](https://stackoverflow.com/users/https://stackoverflow.com/users/15489606/sheikh-ariful)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' color="#fff">](https://sheikh-ariful-islam.netlify.app/)  
 
 
 
