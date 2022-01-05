@@ -27,7 +27,3 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sheikharifulislam)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sheikharifulislam)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sheikharifulislam)  
-
-![Profile views](https://gpvc.arturio.dev/sheikharifulislam)  
