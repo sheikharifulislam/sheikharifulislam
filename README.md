@@ -33,6 +33,6 @@ Hello Everyone. I am Sheikh Ariful Islam. I am a MERN Stack Web Developer. I hav
 
 <h3 align="left">GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=sheikharifulislam&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sheikharifulislam&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sheikharifulislam&theme=react&show_icons=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sheikharifulislam&theme=react&&show_icons=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikharifulislam&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
