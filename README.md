@@ -4,7 +4,7 @@
 
 #### A passionate Full-Stack developer from Bangladesh<br>
 
-Hello Everyone. I am Sheikh Ariful Islam. I am a MERN Stack Web Developer. I have been involved in web development for over a year. I prefer to work on my project by creating those packages myself instead of using other people's packages. I always try to learn something new and difficult and I always like to learn new and difficult things related to programming. I always try and think of something that no one has created before. I spent this long year learning new things about programming and project creation.<br><br>I am currently working on technologies like Html, CSS, Javascript, React, NodeJs, ExpressJs, and MongoDB. In the future, there are plans to work on the backend of the website using technology like C++, and Rust.
+Ariful is an accomplished Front-End Application developer, problem solver, and learner who always looking for new and complex real-world challenges to solve. I like working with this team that has new challenges every day. I am always interested in solving new and complex problems. I am a highly motivated and quick learner with a strong interest in anything that helps my work life.
 <img style="width:100%; display: block;margin-top: 40px" src="https://user-images.githubusercontent.com/68158625/111168688-5c5a6400-85b3-11eb-8617-0ddf29a278f9.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikharifulislam&label=Profile%20views&color=0e75b6&style=flat" alt="sheikharifulislam" /> </p>
